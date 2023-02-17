@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Template</title>
+</head>
+<body>
+    <h1>My Dashboard View</h1>
+
+    <div>
+        <h2>Stock Price Predictions</h2>
+        <img src="{{ image_path }}" alt="Stock Price Predictions">
+    </div>
+
+    <div>
+        {% block content %}{% endblock %}
+    </div>
+
+</body>
+</html>

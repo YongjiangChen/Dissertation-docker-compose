@@ -1,0 +1,14 @@
+pyecharts
+django
+django-echarts
+python-decouple
+pandas
+datetime
+json_flatten
+yfinance
+sklearn 
+keras 
+pandas 
+matplotlib 
+scikit-learn 
+tensorflow
